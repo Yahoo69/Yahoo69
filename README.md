@@ -1,4 +1,4 @@
-<h1 align="center" style="text-shadow:30px 30px 2px red">Hi, I'm Yahoo69</h1>
+<h1 align="center" shadow="red 3px 4px">Hi, I'm Yahoo69</h1>
 <h3 align="center">I'm into c++ programing.</h3>
 
 - 🌱 I’m currently learning **java and asembley.**
