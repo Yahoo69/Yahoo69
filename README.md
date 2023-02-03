@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yahoo69</h1>
-<h3 align="center" style="color:Megenta;">I'm into c++ programing.</h3>
+<h3 align="center">I'm into c++ programing.</h3>
 
 - 🌱 I’m currently learning **java and asembley.**
 
