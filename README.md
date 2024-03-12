@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yahoo69</h1>
 <h3 align="center">I'm into c++ and java programing.</h3>
 
-- I’m currently learning **java.**
+- I’m currently creating **flighter game for android.**
 
 - My website [https://yahoos.dev](https://yahoos.dev)
 
